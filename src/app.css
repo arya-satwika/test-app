@@ -1,0 +1,14 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+
+html {
+    scroll-behavior: smooth;
+}
+
+h1,
+h2,
+h3,
+div {
+    font-family: 'Montserrat', sans-serif;
+}
