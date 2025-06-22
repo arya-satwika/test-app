@@ -1,6 +1,3 @@
-
-
-
 <div class="flex flex-row justify-evenly bg-blue-500 p-5">
     <h1 class="text-3xl font-bold">Your Name here..</h1>
     <span class="flex flex-row min-h-full px-5 gap-x-3">
