@@ -12,7 +12,7 @@
     </div>
     <div class= "text-center py-3 text-3xl font-bold">PIPISS!!</div>
     <section id="about">
-        <h1 class = "text-center p-4 font-bold text-4xl">dis the about section lolol</h1>
+        <h1 class = "text-center p-4 font-bold text-4xl">dis the about section apakah harus di run</h1>
         <div class = "mx-auto flex flex-row justify-center gap-x-10">
             
             <article class="text-xl bg-slate-500 p-2 rounded-2xl min-h-30 max-w-60 w-60 content-center">
